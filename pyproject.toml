@@ -6,7 +6,9 @@ authors = ["danielmontesalejandres <danielmontesalejandres@gmail.com>"]
 license = "MIT"
 
 [tool.poetry.dependencies]
-python = "y"
+python = "^3.8"
+web3 = "^7.4.0"
+python-dotenv = "^1.0.1"
 
 [tool.poetry.dev-dependencies]
 
